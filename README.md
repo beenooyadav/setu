@@ -1,4 +1,4 @@
-to user first signup using below URL
+to use first signup using below URL
 in my case host was host="http://127.0.0.1:8000"
 
 {{host}}/accounts/sign_up/
